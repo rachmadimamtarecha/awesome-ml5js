@@ -41,3 +41,7 @@ Work In Progress - Awesome List for ml5js
 
 ## Projects
 > Any projects that showcase creative or critical uses of ml5.js that speak to the mission and ethos of the ml5.js project
+
+- [Covid-19 Estimation Online Test Based on Lung Sound](https://covid.tarecha.com/)
+  - Rachmad Imam Tarecha use ml5.js for make covid-19 sound classifier
+ 
